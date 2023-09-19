@@ -10,6 +10,10 @@ git clone https://github.com/WebMind1s/Style-SC.git
 ```bash
 cd Style-SC
 ```
+open it with (VSCode)
+```bash
+code .
+```
 then
 ```bash
 npm install
